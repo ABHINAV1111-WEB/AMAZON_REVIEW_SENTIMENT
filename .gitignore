@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+reviews.csv
+.env
+analysis01.ipynb
