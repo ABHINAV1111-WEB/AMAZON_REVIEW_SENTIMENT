@@ -4,3 +4,4 @@ __pycache__/
 reviews.csv
 .env
 analysis01.ipynb
+.venv
